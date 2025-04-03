@@ -1,3 +1,5 @@
+# desafio_1
+
 SENAI AREIAS 
 
 Programação Orientada a Objetos (POO) é uma abordagem de desenvolvimento de software que se baseia na criação e interação de objetos. Um objeto é uma entidade que combina dados e comportamentos, representando elementos do mundo real dentro do código. Esse paradigma facilita a organização e reutilização do código, tornando os programas mais estruturados e fáceis de manter. A POO possui quatro pilares fundamentais:
@@ -41,9 +43,34 @@ Oferece flexibilidade para modificar e expandir funcionalidades.
 
 # desafio_2
 
-What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+O que é um Sistema de Controle de Versões (VCS)?
 
-Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Um Sistema de Controle de Versões (VCS) é como um "histórico de mudanças" para arquivos e projetos, especialmente no desenvolvimento de software. Ele registra todas as alterações feitas ao longo do tempo, permitindo que você volte a versões anteriores caso algo dê errado. Imagine que você está escrevendo um livro com um grupo de amigos—sem um VCS, seria um caos organizar quem mudou o quê e garantir que ninguém sobrescreva o trabalho do outro. Com um VCS, cada mudança fica documentada, e várias pessoas podem trabalhar no mesmo projeto ao mesmo tempo sem conflitos. Além disso, se um erro for cometido, basta restaurar uma versão anterior sem precisar refazer tudo do zero. Esse sistema também permite criar versões paralelas do projeto para testar novas ideias sem afetar a versão principal.
+
+5 Vantagens de usar um VCS:
+
+ Rastreamento de alterações – Você pode ver quem mudou o quê e quando, facilitando o entendimento do projeto.
+
+
+ Colaboração eficiente – Várias pessoas podem editar os arquivos ao mesmo tempo sem correr o risco de bagunçar tudo.
+
+
+ Segurança contra perda de dados – Se algo der errado, você pode recuperar versões anteriores sem desespero.
+
+
+ Organização do projeto – Manter um código limpo e bem documentado fica muito mais fácil.
+
+
+ Testes sem medo – Criar versões separadas para testar novas funcionalidades sem afetar o código principal.
+
+
+ Exemplos de VCS:
+
+ Git – O mais popular e usado em grandes projetos, como os hospedados no GitHub e GitLab.
+
+
+ Subversion (SVN) – Um sistema mais tradicional, ainda usado por algumas empresas.
+
+
+ Mercurial – Uma alternativa ao Git, conhecida por ser mais simples de usar.
 
